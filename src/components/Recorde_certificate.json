@@ -1,0 +1,62 @@
+[
+
+{
+  "id":1,
+  "certiimage": "./certifi/ReactJs.png",
+  "caption":"React Js Certification",
+  "github":"https://github.com/LiakotHosen",
+   "LiveDemo" :"https://github.com/LiakotHosen"
+},
+
+{
+    "id":2,
+    "certiimage":"./certifi/cissp.PNG",
+    "caption":"Certified Information System Security Professional",
+    "github":"https://github.com/LiakotHosen",
+   "LiveDemo" :"https://github.com/LiakotHosen"
+},
+{
+    "id":3,
+    "certiimage":"./certifi/JavaScript_Certification.png",
+    "caption":"JavaScript Basic to Advanced certification By Udemy",
+    "github":"https://github.com/LiakotHosen",
+   "LiveDemo" :"https://github.com/LiakotHosen"
+},
+{
+    "id":4,
+    "certiimage":"./certifi/EHE.png",
+    "caption":"Ethical Hacking BY EC Council",
+    "github":"https://github.com/LiakotHosen",
+   "LiveDemo" :"https://github.com/LiakotHosen"
+},
+{
+    "id":5,
+    "certiimage":"./certifi/ItSecurity101.png",
+    "caption":"Information Security ",
+    "github":"https://github.com/LiakotHosen",
+   "LiveDemo" :"https://github.com/LiakotHosen"
+},
+{
+    "id":6,
+    "certiimage":"./certifi/PowerBi.png",
+    "caption":"Bussiness Inteligence Power BI",
+    "github":"https://github.com/LiakotHosen",
+   "LiveDemo" :"https://github.com/LiakotHosen"
+},
+{
+    "id":7,
+    "certiimage":"./certifi/Python101ForDataScience.png",
+    "caption":"Python Programming For Data Science",
+    "github":"https://github.com/LiakotHosen",
+   "LiveDemo" :"https://github.com/LiakotHosen"
+},
+{
+    "id":8,
+    "certiimage":"./certifi/DataVisuWithPython.png",
+    "caption":"Data Visualization With Python",
+    "github":"https://github.com/LiakotHosen",
+   "LiveDemo" :"https://github.com/LiakotHosen"
+}
+
+
+]

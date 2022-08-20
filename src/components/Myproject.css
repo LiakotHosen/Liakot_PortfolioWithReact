@@ -1,0 +1,90 @@
+/************ Certificates Css ************/
+
+.my-pro{
+    padding: 0px 0;
+    position: relative;
+    background-color: black;
+  }
+  
+  .my-pro h1  {
+     color: #e9e3e7 ;
+      font-size: 45px;
+      font-weight: 700;
+    text-align: center;
+    
+  }
+  
+  .inner{
+    
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,300px));
+    grid-gap: 10px;
+    background-color: #0b0b0c;
+    padding: 10px;
+    margin-left: 1in;
+    margin-right: 1in;
+  }
+  .every-project{
+    display: grid;
+    justify-content: space-between;
+    margin-top: 8px;
+    background-color: aliceblue;
+    border-radius: 1.5rem;
+    overflow: hidden;
+
+
+  }
+  .every-project :hover{
+  
+  transform: scale(1.1);
+  }
+  
+
+  .every-project-with-btn{
+    margin-top: 10px;
+    height: 290px;;
+    width: 270px;
+  position: center;
+  }
+  
+  .every-project-with-btn img{
+    
+    height: 240px;
+    width: 260px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    position: center;
+    border-radius: 1.5rem;
+    overflow: hidden;
+  }
+  
+
+
+.gbtn {
+
+  margin-left: 30px;
+  margin-top: 130px;
+  border-radius: 1.1rem;
+  overflow: hidden;
+  background-color: rgb(235, 178, 216);
+  padding-top: 0px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  }
+  .gnbt :hover{
+    color: darkcyan;
+  }
+
+.demobtn{
+  padding: auto;
+  margin-left: 30px;
+  border-radius: .5rem;
+  background-color: rgb(233, 197, 168);
+  padding-top: 0px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+}
